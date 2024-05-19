@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T03:38:15.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="7W8KGzxLS-AGuCSIcZyS" version="24.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-19T03:38:52.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XGJ2EicEBenZ4nJ9sgV2" version="24.4.4" type="github" pages="2">
   <diagram name="Page-1" id="UOUT_dEQgqodoObThw4q">
     <mxGraphModel dx="1505" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="2ig7Iegi0s0cv4aiwe4C-12" value="MOV Summary" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="119" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ig7Iegi0s0cv4aiwe4C-14" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;Chef2Door will consider the project successful if, within the first year of operation, it achieves a 10% increase in client acceptance rate in the target market.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;html=1;align=center;labelBorderColor=none;spacingBottom=0;spacingTop=0;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="2ig7Iegi0s0cv4aiwe4C-14" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;Chef2Door will consider the project successful if, within the first year of operation, it achieves a 5% increase in client acceptance rate in the target market.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;html=1;align=center;labelBorderColor=none;spacingBottom=0;spacingTop=0;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="254" y="394.25" width="243" height="111.5" as="geometry" />
         </mxCell>
       </root>
