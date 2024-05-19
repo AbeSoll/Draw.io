@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T02:33:36.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="nkey80QAxSLswASkmFkd" version="24.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-19T03:38:15.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="7W8KGzxLS-AGuCSIcZyS" version="24.4.4" type="github" pages="2">
   <diagram name="Page-1" id="UOUT_dEQgqodoObThw4q">
     <mxGraphModel dx="1505" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,10 +50,52 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X2iOY8vAIocSmT1OVpZl" name="Page-2">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1kFcdKziXEvG-IAGALnx-1" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="261" y="90" width="99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFcdKziXEvG-IAGALnx-2" value="Increase in Client Acceptance Rate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="316" y="185" width="219" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFcdKziXEvG-IAGALnx-3" value="5% Increase in Client Acceptance Rate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="370" y="279" width="226" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFcdKziXEvG-IAGALnx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=13;" edge="1" parent="1" source="1kFcdKziXEvG-IAGALnx-5" target="1kFcdKziXEvG-IAGALnx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFcdKziXEvG-IAGALnx-5" value="Initialize and Conceptualize" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFcdKziXEvG-IAGALnx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=13;" edge="1" parent="1" source="1kFcdKziXEvG-IAGALnx-7" target="1kFcdKziXEvG-IAGALnx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFcdKziXEvG-IAGALnx-7" value="Desired Value of Project" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="182" y="174" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFcdKziXEvG-IAGALnx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=13;" edge="1" parent="1" source="1kFcdKziXEvG-IAGALnx-9" target="1kFcdKziXEvG-IAGALnx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFcdKziXEvG-IAGALnx-9" value="Matrics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="238" y="266" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFcdKziXEvG-IAGALnx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=13;" edge="1" parent="1" source="1kFcdKziXEvG-IAGALnx-11" target="1kFcdKziXEvG-IAGALnx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFcdKziXEvG-IAGALnx-11" value="Time Frame" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="293" y="353" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFcdKziXEvG-IAGALnx-12" value="Within first year of operation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="429" y="364" width="167" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFcdKziXEvG-IAGALnx-13" value="MOV Summary" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="346" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFcdKziXEvG-IAGALnx-14" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;Chef2Door will consider the project successful if, within the first year of operation, it achieves a 5% increase in client acceptance rate in the target market.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;html=1;align=center;labelBorderColor=none;spacingBottom=0;spacingTop=0;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="481" y="430.25" width="243" height="111.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
