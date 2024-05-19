@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T04:33:26.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="dcCz3PAeEcexzHfPH_IQ" version="24.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-19T05:39:34.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="j7oJcE2XFbjq7ROC1hL9" version="24.4.4" type="github" pages="2">
   <diagram name="Page-1" id="UOUT_dEQgqodoObThw4q">
     <mxGraphModel dx="1505" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,18 +50,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X2iOY8vAIocSmT1OVpZl" name="Page-2">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1kFcdKziXEvG-IAGALnx-1" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="261" y="90" width="259" height="40" as="geometry" />
+        <mxCell id="1kFcdKziXEvG-IAGALnx-1" value="Define project goals and lay the groundwork for project initiation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;spacingLeft=1;" vertex="1" parent="1">
+          <mxGeometry x="261" y="85" width="339" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1kFcdKziXEvG-IAGALnx-2" value="Increase in Client Acceptance Rate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="261" y="181" width="259" height="38" as="geometry" />
+        <mxCell id="1kFcdKziXEvG-IAGALnx-2" value="Create a detailed project plan and charter outlining project scope, objectives, and stakeholders" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;spacingLeft=1;" vertex="1" parent="1">
+          <mxGeometry x="261" y="175.5" width="339" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1kFcdKziXEvG-IAGALnx-3" value="5% Increase in Client Acceptance Rate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="261" y="271" width="259" height="38" as="geometry" />
+        <mxCell id="1kFcdKziXEvG-IAGALnx-3" value="Implement the project plan, coordinate resources, and perform the work outlined in the plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="261" y="265.5" width="339" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jLr1OlrIumhYTrR61fEw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1kFcdKziXEvG-IAGALnx-5" target="1kFcdKziXEvG-IAGALnx-7">
           <mxGeometry relative="1" as="geometry" />
@@ -87,8 +87,8 @@
         <mxCell id="1kFcdKziXEvG-IAGALnx-11" value="Design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="120" y="350" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1kFcdKziXEvG-IAGALnx-12" value="Within first year of operation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="261" y="361" width="259" height="38" as="geometry" />
+        <mxCell id="1kFcdKziXEvG-IAGALnx-12" value="&lt;div&gt;Develop prototypes and blueprints for the project deliverables&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="261" y="355.5" width="339" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jLr1OlrIumhYTrR61fEw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1kFcdKziXEvG-IAGALnx-13" target="jLr1OlrIumhYTrR61fEw-1">
           <mxGeometry relative="1" as="geometry" />
@@ -96,17 +96,23 @@
         <mxCell id="1kFcdKziXEvG-IAGALnx-13" value="Implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1kFcdKziXEvG-IAGALnx-14" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;align=center;labelBorderColor=none;spacingBottom=0;spacingTop=0;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="261" y="450.13" width="259" height="39.75" as="geometry" />
+        <mxCell id="1kFcdKziXEvG-IAGALnx-14" value="&lt;div style=&quot;&quot;&gt;Build and create the project deliverables according to the design specifications&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;align=center;labelBorderColor=none;spacingBottom=0;spacingTop=0;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="261" y="445.06" width="339" height="49.88" as="geometry" />
         </mxCell>
         <mxCell id="jLr1OlrIumhYTrR61fEw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jLr1OlrIumhYTrR61fEw-1" target="jLr1OlrIumhYTrR61fEw-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLr1OlrIumhYTrR61fEw-1" value="Monitoring &amp;amp; Controlling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jLr1OlrIumhYTrR61fEw-1" value="Monitoring &amp;amp; Controlling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FF99;strokeColor=#000000;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="120" y="530" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jLr1OlrIumhYTrR61fEw-3" value="Closure" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jLr1OlrIumhYTrR61fEw-3" value="Closure" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF66FF;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="120" y="620" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jLr1OlrIumhYTrR61fEw-12" value="&lt;div style=&quot;&quot;&gt;Track project progress, identify and address deviations from the plan, and ensure project objectives are met&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;align=center;labelBorderColor=none;spacingBottom=0;spacingTop=0;whiteSpace=wrap;fillColor=#33FF99;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="261" y="535" width="339" height="49.88" as="geometry" />
+        </mxCell>
+        <mxCell id="jLr1OlrIumhYTrR61fEw-13" value="&lt;div style=&quot;&quot;&gt;Formalize project completion, hand over deliverables to stakeholders, and document lessons learned for future projects&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;align=center;labelBorderColor=none;spacingBottom=0;spacingTop=0;whiteSpace=wrap;fillColor=#FF66FF;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="261" y="625.06" width="339" height="49.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
