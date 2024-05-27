@@ -1,50 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T05:39:34.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="j7oJcE2XFbjq7ROC1hL9" version="24.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-27T06:24:43.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="zZhNE_h_KGwDImFHoPRf" version="24.4.8" type="github" pages="2">
   <diagram name="Page-1" id="UOUT_dEQgqodoObThw4q">
-    <mxGraphModel dx="1505" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2ig7Iegi0s0cv4aiwe4C-1" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="2ig7Iegi0s0cv4aiwe4C-1" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="34" y="54" width="99" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2ig7Iegi0s0cv4aiwe4C-2" value="Increase in Client Acceptance Rate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="89" y="149" width="219" height="38" as="geometry" />
+        <mxCell id="2ig7Iegi0s0cv4aiwe4C-2" value="Provide customers with easy access to gourmet-quality meals tailored to their unique tastes and dietary needs." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="87" y="140.5" width="422" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="2ig7Iegi0s0cv4aiwe4C-3" value="5% Increase in Client Acceptance Rate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="143" y="243" width="226" height="38" as="geometry" />
+        <mxCell id="2ig7Iegi0s0cv4aiwe4C-3" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Achieve a 15% client acceptance rate, with an increment of 5% per year.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="143" y="236" width="410" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="2ig7Iegi0s0cv4aiwe4C-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=13;" edge="1" parent="1" source="2ig7Iegi0s0cv4aiwe4C-4" target="2ig7Iegi0s0cv4aiwe4C-5">
+        <mxCell id="2ig7Iegi0s0cv4aiwe4C-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=13;" parent="1" source="2ig7Iegi0s0cv4aiwe4C-4" target="2ig7Iegi0s0cv4aiwe4C-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2ig7Iegi0s0cv4aiwe4C-4" value="Desired Area of Impact" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="2ig7Iegi0s0cv4aiwe4C-4" value="Desired Area of Impact" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-97" y="44" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ig7Iegi0s0cv4aiwe4C-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=13;" edge="1" parent="1" source="2ig7Iegi0s0cv4aiwe4C-5" target="2ig7Iegi0s0cv4aiwe4C-6">
+        <mxCell id="2ig7Iegi0s0cv4aiwe4C-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=13;" parent="1" source="2ig7Iegi0s0cv4aiwe4C-5" target="2ig7Iegi0s0cv4aiwe4C-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2ig7Iegi0s0cv4aiwe4C-5" value="Desired Value of Project" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="2ig7Iegi0s0cv4aiwe4C-5" value="Desired Value of Project" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-45" y="138" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ig7Iegi0s0cv4aiwe4C-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=13;" edge="1" parent="1" source="2ig7Iegi0s0cv4aiwe4C-6" target="2ig7Iegi0s0cv4aiwe4C-9">
+        <mxCell id="2ig7Iegi0s0cv4aiwe4C-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=13;" parent="1" source="2ig7Iegi0s0cv4aiwe4C-6" target="2ig7Iegi0s0cv4aiwe4C-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2ig7Iegi0s0cv4aiwe4C-6" value="Matrics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="2ig7Iegi0s0cv4aiwe4C-6" value="Matrics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="11" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ig7Iegi0s0cv4aiwe4C-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=13;" edge="1" parent="1" source="2ig7Iegi0s0cv4aiwe4C-9" target="2ig7Iegi0s0cv4aiwe4C-12">
+        <mxCell id="2ig7Iegi0s0cv4aiwe4C-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=13;" parent="1" source="2ig7Iegi0s0cv4aiwe4C-9" target="2ig7Iegi0s0cv4aiwe4C-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2ig7Iegi0s0cv4aiwe4C-9" value="Time Frame" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="2ig7Iegi0s0cv4aiwe4C-9" value="Time Frame" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="66" y="317" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ig7Iegi0s0cv4aiwe4C-11" value="Within first year of operation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="202" y="328" width="167" height="38" as="geometry" />
+        <mxCell id="2ig7Iegi0s0cv4aiwe4C-11" value="Within 3 years of operation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="196" y="328" width="266" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="2ig7Iegi0s0cv4aiwe4C-12" value="MOV Summary" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="2ig7Iegi0s0cv4aiwe4C-12" value="MOV Summary" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="119" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ig7Iegi0s0cv4aiwe4C-14" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;Chef2Door will consider the project successful if, within the first year of operation, it achieves a 5% increase in client acceptance rate in the target market.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;html=1;align=center;labelBorderColor=none;spacingBottom=0;spacingTop=0;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="254" y="394.25" width="243" height="111.5" as="geometry" />
+        <mxCell id="2ig7Iegi0s0cv4aiwe4C-14" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;margin-bottom: 0cm; line-height: 150%;&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Chef2Door will consider the project successful if, within 3 years of operation, it achieves a 15% client acceptance rate with a 5% yearly increment by providing customers with easy access to gourmet-quality meals tailored to their unique tastes and dietary needs.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;html=1;align=center;labelBorderColor=none;spacingBottom=0;spacingTop=0;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Georgia;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="254" y="396" width="345" height="145" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
